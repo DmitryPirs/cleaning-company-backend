@@ -20,7 +20,9 @@ This repository contains part of the backend for a real cleaning company, built 
 ### 1. Clone and install dependencies
 
 git clone https://github.com/DmitryPirs/cleaning-company-backend.git
+
 cd cleaning-company-backend
+
 npm install
 
 ### 2. Configuration
