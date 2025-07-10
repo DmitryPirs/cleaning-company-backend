@@ -1,0 +1,30 @@
+export interface CommonInfoFromClientInterface {
+  date: string;
+  zipCode: string;
+  squareFeet: string;
+  numberBedrooms: string;
+  numberBathrooms: string;
+  excludeBedrooms: string;
+  excludeBathrooms: string;
+  conditionHome: string;
+  typeCleaning: string;
+  pets: string;
+  discount: string;
+  interiorWindows: boolean;
+  insideOven: boolean;
+  wipeBaseboards: boolean;
+  insideFridge: boolean;
+  insideCabinets: boolean;
+  calendar: string;
+  arrivalFrom: string;
+  propertyAddress: string;
+  apartment: string;
+  firstName: string;
+  lastName: string;
+  email: string;
+  phone: string;
+  oneCleanPrice: string;
+  recurringCleanPrice: string;
+  duringCleaning: string;
+  duringStandardCleaning: string;
+}
